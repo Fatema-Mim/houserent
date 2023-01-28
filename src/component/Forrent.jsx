@@ -4,7 +4,7 @@ const Forrent = () => {
     return (
         <div className='text-center space-y-20 py-28 bg-slate-50'>
             <div className='text-color1 space-y-3'>
-                <h2 className='text-5xl md:text-6xl font-bold'>For rants & Availability</h2>
+                <h2 className='text-5xl md:text-6xl font-bold'>For rents & Availability</h2>
                 <p className='text-3xl font-semibold'>Search your <span className='font-semibold'>House</span></p>
             </div>
             <div>

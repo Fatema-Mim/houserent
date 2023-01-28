@@ -72,7 +72,7 @@ const Hero = () => {
                 <div className='absolute w-full h-full bg-black/20'>
                     <div className='z-10 mt-40 md:mt-44 text-white text-center space-y-4'>
                         <h3 className='text-3xl'>Good Service is our passion</h3>
-                        <h1 className='text-5xl md:text-6xl font-bold'>Awesome apartment Villa</h1>
+                        <h1 className='text-5xl md:text-6xl font-bold'>Awesome Apartment Villa</h1>
                         <p className='text-xl px-0 md:px-40 lg::px-72 pb-8'>No matter what the weather, no matter what the situation we are in, if we have the right perspective in life, life will always be beautiful!</p>
                         <button className='text-lg bg-color1 hover:bg-green-900 px-8 py-2.5 rounded-full'>Special Offer</button>
                     </div>
